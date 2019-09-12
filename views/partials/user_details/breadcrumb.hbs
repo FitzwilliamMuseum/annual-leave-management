@@ -1,4 +1,4 @@
-<ol class="breadcrumb">
-  <li><a href="/users/">All Employees</a></li>
-  <li class="active">{{#with employee}}{{this.full_name}}{{/with}}</li>
-</ol>
+<div class="btn-group mt-3 mb-3" role="group" aria-label="departments list">
+  <a class="btn btn-primary" href="/users/" role="button">All employees</a>
+  <button class="btn btn-primary btn-disabled" href="#" role="button">{{#with employee}}{{this.full_name}}{{/with}}</button>
+</div>
