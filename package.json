@@ -2,6 +2,8 @@
   "name": "TimeOff.Management",
   "version": "0.10.0",
   "private": false,
+  "repository": "https://github.com/FitzwilliamMuseum/annual-leave-managment",
+  "license": "MIT",
   "description": "Simple yet powerful absence management software for small and medium size business",
   "engines": {
     "node": ">=6.0.0"
@@ -47,7 +49,8 @@
     "mocha": "^4.1.0",
     "node-sass": "^4.5.3",
     "request-promise": "^4.2.2",
-    "selenium-webdriver": "2.53.3"
+    "selenium-webdriver": "2.53.3",
+    "ws": ">=3.3.1"
   },
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --recursive t/*",
