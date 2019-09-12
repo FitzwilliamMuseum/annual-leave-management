@@ -1,0 +1,7279 @@
+{
+  "countries" : {
+    "AD": {
+      "name": "Andorra",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Any nou"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Día de los Reyes Magos"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-03-14",
+          "name": "Dia de la Constitució"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pascua"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lunes de Pascua"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecostés"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lunes de Pentecostés"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Asunción"
+        },
+        {
+          "date": "2019-09-08",
+          "name": "Mare de Déu de Meritxell"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Todos los Santos"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "La inmaculada concepción"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Nochebuena"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Nadal"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "San Esteban"
+        }
+      ]
+    },
+    "AG": {
+      "name": "Antigua & Barbuda",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Whit Monday"
+        },
+        {
+          "date": "2019-08-01",
+          "name": "J'Ouvert Morning"
+        },
+        {
+          "date": "2019-08-02",
+          "name": "Last Lap"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-12-09",
+          "name": "V.C Bird Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "AI": {
+      "name": "Anguilla",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-03-02",
+          "name": "James Ronald Webster Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Anguilla Day"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Whit Monday"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Celebration of the Birthday of Her Majesty the Queen"
+        },
+        {
+          "date": "2019-08-01",
+          "name": "August Thursday"
+        },
+        {
+          "date": "2019-08-02",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "August Monday"
+        },
+        {
+          "date": "2019-12-19",
+          "name": "National Heroes and Heroines Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "AL": {
+      "name": "Shqipëri",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Viti i Ri"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Festa e Vitit të Ri"
+        },
+        {
+          "date": "2019-03-14",
+          "name": "Dita e Verës"
+        },
+        {
+          "date": "2019-03-22",
+          "name": "Dita e Sulltan Nevruzit"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pashkët Katolike"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Pashkët Katolike"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Pashkët Ortodokse"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Pashkët Ortodokse"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Dita Ndërkombëtare e Punonjësve"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Fitër Bajrami"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Kurban Bajrami"
+        },
+        {
+          "date": "2019-10-19",
+          "name": "Dita e Nënë Terezës"
+        },
+        {
+          "date": "2019-11-28",
+          "name": "Dita e Pavarësisë"
+        },
+        {
+          "date": "2019-11-29",
+          "name": "Dita e Çlirimit"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Dita Kombëtare e Rinisë"
+        },
+        {
+          "date": "2019-12-09",
+          "name": "Dita Kombëtare e Rinisë (ditë zëvendësuese)"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Nata e Krishtlindjes"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Krishtlindja"
+        }
+      ]
+    },
+    "AM": {
+      "name": "Հայաստան",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Ամանոր"
+        },
+        {
+          "date": "2019-01-03",
+          "name": "Նախածննդյան տոներ"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Սուրբ Ծնունդ"
+        },
+        {
+          "date": "2019-01-28",
+          "name": "Բանակի օր"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "Կանանց տոն"
+        },
+        {
+          "date": "2019-04-24",
+          "name": "Ցեղասպանության զոհերի հիշատակի օր"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Աշխատանքի օր"
+        },
+        {
+          "date": "2019-05-09",
+          "name": "Հաղթանակի եւ Խաղաղության տոն"
+        },
+        {
+          "date": "2019-05-28",
+          "name": "Հանրապետության օր"
+        },
+        {
+          "date": "2019-07-05",
+          "name": "Սահմանադրության օր"
+        },
+        {
+          "date": "2019-09-21",
+          "name": "Անկախության օր"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Նոր տարվա գիշեր"
+        }
+      ]
+    },
+    "AO": {
+      "name": "Angola",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Ano Novo"
+        },
+        {
+          "date": "2019-02-04",
+          "name": "Dia do Início da Luta Armada de Libertação Nacional"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "Dia Internacional da Mulher"
+        },
+        {
+          "date": "2019-04-04",
+          "name": "Dia da Paz"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Sexta-Feira Santa"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Dia do trabalhador"
+        },
+        {
+          "date": "2019-09-17",
+          "name": "Fundador da Nação e Dia dos Heróis Nacionais"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Dia de Finados"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Dia da Independência"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Natal"
+        }
+      ]
+    },
+    "AR": {
+      "name": "Argentina",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-03-04",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-03-24",
+          "name": "Día de la Memoria por la Verdad y la Justicia"
+        },
+        {
+          "date": "2019-04-01",
+          "name": "Feriado Puente Turístico"
+        },
+        {
+          "date": "2019-04-02",
+          "name": "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-05-25",
+          "name": "Primer Gobierno Patrio"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Día de la Bandera"
+        },
+        {
+          "date": "2019-06-21",
+          "name": "Feriado Puente Turístico"
+        },
+        {
+          "date": "2019-07-09",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-08-19",
+          "name": "Día del Libertador José de San Martín"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "Día del Respeto a la Diversidad Cultural"
+        },
+        {
+          "date": "2019-11-25",
+          "name": "Día de la Soberanía nacional"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "La inmaculada concepción"
+        },
+        {
+          "date": "2019-12-23",
+          "name": "Feriado Puente Turístico"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "AS": {
+      "name": "American Samoa",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-21",
+          "name": "Martin Luther King Day"
+        },
+        {
+          "date": "2019-02-18",
+          "name": "Washington’s Birthday"
+        },
+        {
+          "date": "2019-04-17",
+          "name": "American Samoa Flag Day"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Memorial Day"
+        },
+        {
+          "date": "2019-07-04",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-09-02",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "Columbus Day"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Veterans Day"
+        },
+        {
+          "date": "2019-11-28",
+          "name": "Thanksgiving Day"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Christmas Eve"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "New Year's Eve"
+        }
+      ]
+    },
+    "AT": {
+      "name": "Österreich",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Neujahr"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Heilige Drei Könige"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Ostersonntag"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Ostermontag"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Staatsfeiertag"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Christi Himmelfahrt"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pfingstsonntag"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Pfingstmontag"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Fronleichnam"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Mariä Himmelfahrt"
+        },
+        {
+          "date": "2019-10-26",
+          "name": "Nationalfeiertag"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Allerheiligen"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Mariä Empfängnis"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Heiliger Abend"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christtag"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Stefanitag"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Silvester"
+        }
+      ]
+    },
+    "AU": {
+      "name": "Australia",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-26",
+          "name": "Australia Day"
+        },
+        {
+          "date": "2019-01-28",
+          "name": "Australia Day (substitute day)"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-20",
+          "name": "Easter Saturday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-04-25",
+          "name": "ANZAC Day"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Queen's Birthday"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "AW": {
+      "name": "Aruba",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Aña Nobo"
+        },
+        {
+          "date": "2019-01-25",
+          "name": "Dia di Betico"
+        },
+        {
+          "date": "2019-03-04",
+          "name": "Dialuna di Carnaval"
+        },
+        {
+          "date": "2019-03-18",
+          "name": "Dia di Himno y Bandera"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Diabierna Santo"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Di dos Dia Pasco di Resureccion"
+        },
+        {
+          "date": "2019-04-27",
+          "name": "Aña di Rey"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Dia di Obrero"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Dia di Asuncion"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Dia Pasco di Nascimento"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Di dos Dia Pasco di Nascimento"
+        }
+      ]
+    },
+    "AX": {
+      "name": "Landskapet Åland",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nyårsdagen"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Trettondedag jul"
+        },
+        {
+          "date": "2019-03-30",
+          "name": "Ålands demilitariseringsdag"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Långfredagen"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Annandag påsk"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Första Maj"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Kristi himmelfärds dag"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Självstyrelsedagen"
+        },
+        {
+          "date": "2019-06-15",
+          "name": "Midsommardagen"
+        },
+        {
+          "date": "2019-06-21",
+          "name": "Midsommarafton"
+        },
+        {
+          "date": "2019-12-06",
+          "name": "Självständighetsdagen"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Julafton"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Juldagen"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Annandag jul"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Nyårsafton"
+        }
+      ]
+    },
+    "AZ": {
+      "name": "Azərbaycan Respublikası",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Yeni il"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Yeni il"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "Qadınlar günü"
+        },
+        {
+          "date": "2019-03-20",
+          "name": "Novruz"
+        },
+        {
+          "date": "2019-05-09",
+          "name": "Faşizm üzərində qələbə günü"
+        },
+        {
+          "date": "2019-05-28",
+          "name": "Respublika günü"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Ramazan Bayramı"
+        },
+        {
+          "date": "2019-06-05",
+          "name": "Ramazan Bayramı"
+        },
+        {
+          "date": "2019-06-15",
+          "name": "Azərbaycan xalqının Milli Qurtuluş günü"
+        },
+        {
+          "date": "2019-06-17",
+          "name": "Azərbaycan xalqının Milli Qurtuluş günü (əvəz gün)"
+        },
+        {
+          "date": "2019-06-26",
+          "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Qurban Bayramı"
+        },
+        {
+          "date": "2019-08-12",
+          "name": "Qurban Bayramı"
+        },
+        {
+          "date": "2019-08-13",
+          "name": "Qurban Bayramı (əvəz gün)"
+        },
+        {
+          "date": "2019-10-18",
+          "name": "Dövlət Müstəqilliyi günü"
+        },
+        {
+          "date": "2019-11-09",
+          "name": "Dövlət Bayrağı günü"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Dövlət Bayrağı günü (əvəz gün)"
+        },
+        {
+          "date": "2019-11-12",
+          "name": "Konstitusiya günü"
+        },
+        {
+          "date": "2019-11-17",
+          "name": "Milli Dirçəliş günü"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Dünya azərbaycanlıların həmrəyliyi günü"
+        }
+      ]
+    },
+    "BA": {
+      "name": "Bosna i Hercegovina",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Novogodisnji dan"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Drugi dan Nove Godine"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Bogojavljenje, Sveta tri kralja"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Pravoslavni Božić"
+        },
+        {
+          "date": "2019-01-14",
+          "name": "Pravoslavni novogodišnji dan"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Vaskrs"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Uskrsni ponedjeljak"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Pravoslavni Vaskrs"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Radni dan"
+        },
+        {
+          "date": "2019-05-02",
+          "name": "Drugi dan Dana rada"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Ramazanski bajram"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Tijelovo"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Kurbanski bajram"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Velika Gospa"
+        },
+        {
+          "date": "2019-08-28",
+          "name": "Velika Gospa"
+        },
+        {
+          "date": "2019-08-31",
+          "name": "Nova hidžretska godina"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Dita e të gjithë Shenjtorëve"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Dušni dan"
+        },
+        {
+          "date": "2019-11-09",
+          "name": "Mevlud"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Božić"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Svetog Stjepana"
+        }
+      ]
+    },
+    "BB": {
+      "name": "Barbados",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-21",
+          "name": "Errol Barrow Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "National Heroes Day"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "May Day"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecost"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Whit Monday"
+        },
+        {
+          "date": "2019-08-01",
+          "name": "Emancipation Day"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "Kadooment Day"
+        },
+        {
+          "date": "2019-11-30",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "BE": {
+      "name": "Belgique",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pâques"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-07-21",
+          "name": "Fête nationale"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Armistice"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "BG": {
+      "name": "България",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Нова Година"
+        },
+        {
+          "date": "2019-03-03",
+          "name": "Ден на Освобождението на България от Османската Империя"
+        },
+        {
+          "date": "2019-04-26",
+          "name": "Разпети петък"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Великден"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Велики понеделник"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Ден на труда"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "Гергьовден"
+        },
+        {
+          "date": "2019-05-24",
+          "name": "Ден на азбуката, културата и просветата"
+        },
+        {
+          "date": "2019-09-06",
+          "name": "Ден на съединението"
+        },
+        {
+          "date": "2019-09-22",
+          "name": "Ден на независимостта"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Бъдни вечер"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Коледа"
+        }
+      ]
+    },
+    "BI": {
+      "name": "République du Burundi",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-02-05",
+          "name": "Jour de l'Unité"
+        },
+        {
+          "date": "2019-04-06",
+          "name": "Jour de Ntaryamira"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Fête de fin du Ramadan"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "Jour de l'Indépendance"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Fête du mouton"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-10-13",
+          "name": "Jour de Rwagasore"
+        },
+        {
+          "date": "2019-10-21",
+          "name": "Jour de Ndadaye"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "BL": {
+      "name": "St. Barthélemy",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Vendredi saint"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-08",
+          "name": "Fête de la Victoire 1945"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-07-14",
+          "name": "Fête Nationale"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Armistice de 1918"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Lendemain de Noël"
+        }
+      ]
+    },
+    "BO": {
+      "name": "Bolivia",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-02-02",
+          "name": "Fiesta de la Virgen de Candelaria"
+        },
+        {
+          "date": "2019-03-04",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "La Asunción"
+        },
+        {
+          "date": "2019-06-21",
+          "name": "Año Nuevo Andino"
+        },
+        {
+          "date": "2019-08-02",
+          "name": "Día de la Revolución Agraria, Productiva y Comunitaria"
+        },
+        {
+          "date": "2019-08-06",
+          "name": "Día de la Patria"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Día de los Difuntos"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "BQ": {
+      "name": "Caribisch Nederland",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nieuwjaar"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Goede Vrijdag"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Paasmaandag"
+        },
+        {
+          "date": "2019-04-27",
+          "name": "Koningsdag"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Dag van de Arbeid"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "O.L.H. Hemelvaart"
+        },
+        {
+          "date": "2019-12-15",
+          "name": "Koninkrijksdag"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Kerstmis"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Tweede kerstdag"
+        }
+      ]
+    },
+    "BR": {
+      "name": "Brasil",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Ano Novo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Sexta-Feira Santa"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Dia de Tiradentes"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Dia do trabalhador"
+        },
+        {
+          "date": "2019-06-12",
+          "name": "Dia dos Namorados"
+        },
+        {
+          "date": "2019-09-07",
+          "name": "Dia da Independência"
+        },
+        {
+          "date": "2019-10-12",
+          "name": "Nossa Senhora Aparecida"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Dia de Finados"
+        },
+        {
+          "date": "2019-11-15",
+          "name": "Proclamação da República"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Natal"
+        }
+      ]
+    },
+    "BS": {
+      "name": "Bahamas",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-10",
+          "name": "Majority Rule Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-06-07",
+          "name": "Randol Fawkes Labour Day"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Whit Monday"
+        },
+        {
+          "date": "2019-07-10",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "Emancipation Day"
+        },
+        {
+          "date": "2019-10-12",
+          "name": "National Heroes' Day"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "National Heroes' Day (substitute day)"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "BW": {
+      "name": "Botswana",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "New Year's Holiday"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-20",
+          "name": "Easter Saturday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension Day"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "Sir Seretse Khama Day"
+        },
+        {
+          "date": "2019-07-15",
+          "name": "President’s Day"
+        },
+        {
+          "date": "2019-07-16",
+          "name": "President’s Day Holiday"
+        },
+        {
+          "date": "2019-09-30",
+          "name": "Botswana Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Family Day"
+        }
+      ]
+    },
+    "BY": {
+      "name": "Рэспубліка Беларусь",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Новы год"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Каляды праваслаўныя"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "Мiжнародны жаночы дзень"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Дзень працы"
+        },
+        {
+          "date": "2019-05-07",
+          "name": "Радунiца"
+        },
+        {
+          "date": "2019-05-09",
+          "name": "Дзень Перамогi"
+        },
+        {
+          "date": "2019-07-03",
+          "name": "Дзень Незалежнасцi"
+        },
+        {
+          "date": "2019-11-07",
+          "name": "Дзень Кастрычніцкай рэвалюцыі"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Каляды каталiцкiя"
+        }
+      ]
+    },
+    "BZ": {
+      "name": "Belize",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-03-11",
+          "name": "Baron Bliss Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-20",
+          "name": "Easter Saturday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Commonwealth Day, Sovereign's Day"
+        },
+        {
+          "date": "2019-09-10",
+          "name": "Saint George's Caye Day, National Day"
+        },
+        {
+          "date": "2019-09-21",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "Day of the Americas"
+        },
+        {
+          "date": "2019-11-19",
+          "name": "Garifuna Settlement Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "CA": {
+      "name": "Canada",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2019-05-20",
+          "name": "Victoria Day"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "Canada Day"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "Civic Holiday"
+        },
+        {
+          "date": "2019-09-02",
+          "name": "Labor Day"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "Thanksgiving"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Remembrance Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "CC": {
+      "name": "Cocos (Keeling) Islands",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-26",
+          "name": "Australia Day"
+        },
+        {
+          "date": "2019-02-05",
+          "name": "Chinese New Year"
+        },
+        {
+          "date": "2019-02-06",
+          "name": "Chinese New Year (2nd Day)"
+        },
+        {
+          "date": "2019-03-20",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-04-06",
+          "name": "Self Determination Day"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-04-25",
+          "name": "Anzac Day"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Hari Raya Puasa"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Hari Raya Haji"
+        },
+        {
+          "date": "2019-08-12",
+          "name": "Hari Raya Haji (substitute day)"
+        },
+        {
+          "date": "2019-08-31",
+          "name": "Islamic New Year"
+        },
+        {
+          "date": "2019-11-09",
+          "name": "Hari Maulaud Nabi"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "CD": {
+      "name": "République démocratique du Congo",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-01-04",
+          "name": "Martyrs de l'Indépendance"
+        },
+        {
+          "date": "2019-01-16",
+          "name": "Journée du Héro National Laurent Désiré Kabila"
+        },
+        {
+          "date": "2019-01-17",
+          "name": "Journée du Héro National Patrice Emery Lumumba"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-17",
+          "name": "Journée de la Révolution et des Forces Armées"
+        },
+        {
+          "date": "2019-06-30",
+          "name": "Anniversaire de Indépendance"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "Anniversaire de Indépendance (jour substitut)"
+        },
+        {
+          "date": "2019-08-01",
+          "name": "Fête des parents"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "CF": {
+      "name": "République centrafricaine",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-03-29",
+          "name": "Décès du Fondateur Barthélémy Boganda"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-06-30",
+          "name": "Journée de prière"
+        },
+        {
+          "date": "2019-08-13",
+          "name": "Jour de l'Indépendance"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-12-01",
+          "name": "Jour de la République"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "CG": {
+      "name": "République du Congo",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Fête de la commémoration de la conférence nationale souveraine"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-28",
+          "name": "Journée nationale de la République"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "CH": {
+      "name": "Schweiz",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Neujahr"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Karfreitag"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Ostersonntag"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Ostermontag"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Auffahrt"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Pfingstmontag"
+        },
+        {
+          "date": "2019-08-01",
+          "name": "Bundesfeier"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Weihnachtstag"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Stephanstag"
+        }
+      ]
+    },
+    "CL": {
+      "name": "Chile",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pascua"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-05-21",
+          "name": "Día de las Glorias Navales"
+        },
+        {
+          "date": "2019-06-29",
+          "name": "San Pedro y San Pablo"
+        },
+        {
+          "date": "2019-07-16",
+          "name": "Virgen del Carmen"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Asunción"
+        },
+        {
+          "date": "2019-09-18",
+          "name": "Fiestas Patrias"
+        },
+        {
+          "date": "2019-09-19",
+          "name": "Día de las Glorias del Ejército"
+        },
+        {
+          "date": "2019-10-12",
+          "name": "Día del Descubrimiento de Dos Mundos"
+        },
+        {
+          "date": "2019-10-31",
+          "name": "Día Nacional de las Iglesias Evangélicas y Protestantes"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Todos los Santos"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "La inmaculada concepción"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Fin del Año"
+        }
+      ]
+    },
+    "CM": {
+      "name": "Cameroun",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-02-11",
+          "name": "Fête de la Jeunesse"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Vendredi saint"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-20",
+          "name": "Fête nationale ou de l'unité"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Fête de fin du Ramadan"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Fête du mouton"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "CN": {
+      "name": "中华人民共和国",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "元旦"
+        },
+        {
+          "date": "2019-02-05",
+          "name": "春节"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "国际妇女节"
+        },
+        {
+          "date": "2019-04-05",
+          "name": "清明节 清明節"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "劳动节"
+        },
+        {
+          "date": "2019-05-04",
+          "name": "青年节"
+        },
+        {
+          "date": "2019-06-01",
+          "name": "六一儿童节"
+        },
+        {
+          "date": "2019-06-07",
+          "name": "端午节"
+        },
+        {
+          "date": "2019-08-01",
+          "name": "建军节"
+        },
+        {
+          "date": "2019-09-13",
+          "name": "中秋节"
+        },
+        {
+          "date": "2019-10-01",
+          "name": "国庆节"
+        }
+      ]
+    },
+    "CO": {
+      "name": "Colombia",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Día de los Reyes Magos"
+        },
+        {
+          "date": "2019-03-25",
+          "name": "San José"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pascua"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-06-03",
+          "name": "La Asunción"
+        },
+        {
+          "date": "2019-06-24",
+          "name": "Corpus Christi"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "Sagrado Corazón de Jesús"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "San Pedro y San Pablo"
+        },
+        {
+          "date": "2019-07-20",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-08-07",
+          "name": "Batalla de Boyacá"
+        },
+        {
+          "date": "2019-08-19",
+          "name": "Asunción"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "Día de la Raza"
+        },
+        {
+          "date": "2019-11-04",
+          "name": "Todos los Santos"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Independencia de Cartagena"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "La inmaculada concepción"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "CR": {
+      "name": "Costa Rica",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-04-11",
+          "name": "Gesta Heroica de Juan Santamaría"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-07-25",
+          "name": "Anexión del Partido de Nicoya"
+        },
+        {
+          "date": "2019-08-02",
+          "name": "Día de la Virgen de los Ángeles"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Día de la Madre"
+        },
+        {
+          "date": "2019-09-15",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-10-12",
+          "name": "Día de la Raza"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "CU": {
+      "name": "Cuba",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Triunfo de la Revolución"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Día de Victoria de las Fuerzas Armadas"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-07-25",
+          "name": "Conmemoración del asalto a Moncada"
+        },
+        {
+          "date": "2019-07-26",
+          "name": "Día de la Rebeldía Nacional"
+        },
+        {
+          "date": "2019-07-27",
+          "name": "Conmemoración del asalto a Moncada"
+        },
+        {
+          "date": "2019-10-10",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "CW": {
+      "name": "Curaçao",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nieuwjaar"
+        },
+        {
+          "date": "2019-03-04",
+          "name": "Carnavalmaandag"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Goede Vrijdag"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Paasmaandag"
+        },
+        {
+          "date": "2019-04-27",
+          "name": "Koningsdag"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Dag van de Arbeid"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Hemelvaartsdag"
+        },
+        {
+          "date": "2019-07-02",
+          "name": "Dag van het volkslied en de Vlag"
+        },
+        {
+          "date": "2019-10-10",
+          "name": "Dag van het land Curaçao"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Kerstmis"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Tweede kerstdag"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Oudejaarsavond"
+        }
+      ]
+    },
+    "CY": {
+      "name": "Κύπρος",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Πρωτοχρονιά"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Θεοφάνεια"
+        },
+        {
+          "date": "2019-03-12",
+          "name": "Καθαρά Δευτέρα"
+        },
+        {
+          "date": "2019-03-25",
+          "name": "Ευαγγελισμός, Εθνική Εορτή"
+        },
+        {
+          "date": "2019-04-01",
+          "name": "Κύπρος Εθνική Εορτή"
+        },
+        {
+          "date": "2019-04-26",
+          "name": "Μεγάλη Παρασκευή"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Πάσχα"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Δευτέρα του Πάσχα"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Εργατική Πρωτομαγιά"
+        },
+        {
+          "date": "2019-06-16",
+          "name": "Αγίου Πνεύματος"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Κοίμηση της Θεοτόκου"
+        },
+        {
+          "date": "2019-10-01",
+          "name": "Ημέρα της Ανεξαρτησίας Κύπρος"
+        },
+        {
+          "date": "2019-10-28",
+          "name": "Επέτειος του Όχι"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Χριστούγεννα"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Δεύτερη μέρα των Χριστουγέννων"
+        }
+      ]
+    },
+    "CZ": {
+      "name": "Česká republika",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nový rok; Den obnovy samostatného českého státu"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Velikonoční pátek"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Neděle velikonoční"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Velikonoční pondělí"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Svátek práce"
+        },
+        {
+          "date": "2019-05-08",
+          "name": "Den vítězství or Den osvobození"
+        },
+        {
+          "date": "2019-07-05",
+          "name": "Den slovanských věrozvěstů Cyrila a Metoděje"
+        },
+        {
+          "date": "2019-07-06",
+          "name": "Den upálení mistra Jana Husa"
+        },
+        {
+          "date": "2019-09-28",
+          "name": "Den české státnosti"
+        },
+        {
+          "date": "2019-10-28",
+          "name": "Den vzniku samostatného československého státu"
+        },
+        {
+          "date": "2019-11-17",
+          "name": "Den boje za svobodu a demokracii"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Štědrý den"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "1. svátek vánoční"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "2. svátek vánoční"
+        }
+      ]
+    },
+    "DE": {
+      "name": "Deutschland",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Neujahr"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Faschingsdienstag"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Karfreitag"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Ostermontag"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Maifeiertag"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Christi Himmelfahrt"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Pfingstmontag"
+        },
+        {
+          "date": "2019-10-03",
+          "name": "Tag der Deutschen Einheit"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Heiliger Abend"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "1. Weihnachtstag"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "2. Weihnachtstag"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Silvester"
+        }
+      ]
+    },
+    "DK": {
+      "name": "Danmark",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nytår"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Skærtorsdag"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Langfredag"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Påskesøndag"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Anden påskedag"
+        },
+        {
+          "date": "2019-05-17",
+          "name": "Store Bededag"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Kristi Himmelfartsdag"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pinsedag"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "2. Pinsedag"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "1. Juledag"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "2. Juledag"
+        }
+      ]
+    },
+    "DM": {
+      "name": "Dominica",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-03-04",
+          "name": "Carnival Monday"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Carnival Tuesday"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Whit Monday"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "Emancipation Day"
+        },
+        {
+          "date": "2019-11-04",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-11-05",
+          "name": "National Day of Community Service"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "DO": {
+      "name": "República Dominicana",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Día de los Reyes Magos"
+        },
+        {
+          "date": "2019-01-21",
+          "name": "Nuestra Señora de la Altagracia"
+        },
+        {
+          "date": "2019-01-26",
+          "name": "Día de Duarte"
+        },
+        {
+          "date": "2019-02-27",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Corpus Christi"
+        },
+        {
+          "date": "2019-08-16",
+          "name": "Día de la Restauración"
+        },
+        {
+          "date": "2019-09-24",
+          "name": "Nuestra Señora de las Mercedes"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Día de la Constitución"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "EC": {
+      "name": "Ecuador",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-03-04",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-05-24",
+          "name": "Batalla del Pichincha"
+        },
+        {
+          "date": "2019-08-10",
+          "name": "Día del Primer Grito de Independencia de Quito"
+        },
+        {
+          "date": "2019-09-10",
+          "name": "Independencia de Guayaquil"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Día de los Difuntos"
+        },
+        {
+          "date": "2019-11-03",
+          "name": "Independencia de Cuenca"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "EE": {
+      "name": "Eesti",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "uusaasta"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "suur reede"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "lihavõtted"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "kevadpüha"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "nelipühade 1. püha"
+        },
+        {
+          "date": "2019-06-23",
+          "name": "võidupüha"
+        },
+        {
+          "date": "2019-06-24",
+          "name": "jaanipäev"
+        },
+        {
+          "date": "2019-08-20",
+          "name": "taasiseseisvumispäev"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "jõululaupäev"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "esimene jõulupüha"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "teine jõulupüha"
+        }
+      ]
+    },
+    "ES": {
+      "name": "España",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Día de los Reyes Magos"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Día de los Reyes Magos (día sustituto)"
+        },
+        {
+          "date": "2019-03-19",
+          "name": "San José"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Asunción"
+        },
+        {
+          "date": "2019-10-12",
+          "name": "Fiesta Nacional de España"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Todos los Santos"
+        },
+        {
+          "date": "2019-12-06",
+          "name": "Día de la Constitución Española"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "La inmaculada concepción"
+        },
+        {
+          "date": "2019-12-09",
+          "name": "La inmaculada concepción (día sustituto)"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "ET": {
+      "name": "ኢትዮጵያ",
+      "bank_holidays": [
+        {
+          "date": "2019-01-06",
+          "name": "ልደተ-ለእግዚእነ/ ገና"
+        },
+        {
+          "date": "2019-01-19",
+          "name": "ብርሐነ ጥምቀት"
+        },
+        {
+          "date": "2019-03-02",
+          "name": "የዓድዋ ድል በዓል"
+        },
+        {
+          "date": "2019-03-28",
+          "name": "የቀይ ሽብር መታሰቢያ ቀን"
+        },
+        {
+          "date": "2019-04-26",
+          "name": "ስቅለት"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "ፋሲካ"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "ረመዳን"
+        },
+        {
+          "date": "2019-05-28",
+          "name": "ደርግ የወደቀበት ቀን"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "ዒድ አል ፈጥር"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "ዒድ አል አድሐ"
+        },
+        {
+          "date": "2019-09-11",
+          "name": "እንቁጣጣሽ"
+        },
+        {
+          "date": "2019-09-27",
+          "name": "ብርሐነ-መስቀል"
+        },
+        {
+          "date": "2019-11-09",
+          "name": "መውሊድ"
+        }
+      ]
+    },
+    "FI": {
+      "name": "Suomi",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Uudenvuodenpäivä"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Loppiainen"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Pitkäperjantai"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pääsiäispäivä"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "2. pääsiäispäivä"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Vappu"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Helatorstai"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Helluntaipäivä"
+        },
+        {
+          "date": "2019-06-21",
+          "name": "Juhannusaatto"
+        },
+        {
+          "date": "2019-06-22",
+          "name": "Juhannuspäivä"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Pyhäinpäivä"
+        },
+        {
+          "date": "2019-12-06",
+          "name": "Itsenäisyyspäivä"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Jouluaatto"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Joulupäivä"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "2. joulupäivä"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Uudenvuodenaatto"
+        }
+      ]
+    },
+    "FO": {
+      "name": "Føroyar",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nýggjársdagur"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Skírhósdagur"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Langafríggjadagur"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Páskadagur"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Annar páskadagur"
+        },
+        {
+          "date": "2019-04-24",
+          "name": "Flaggdagur"
+        },
+        {
+          "date": "2019-05-17",
+          "name": "Dýri biðidagur"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Kristi Himmalsferðardagur"
+        },
+        {
+          "date": "2019-06-05",
+          "name": "Grundlógardagur"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Hvítusunnudagur"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Annar hvítusunnudagur"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Jólaaftan"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Fyrsti jóladagur"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Fyrsti gerandisdagur eftir jóladag"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Nýggjársaftan"
+        }
+      ]
+    },
+    "FR": {
+      "name": "France",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-08",
+          "name": "Fête de la Victoire 1945"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-07-14",
+          "name": "Fête Nationale de la France"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Armistice 1918"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "GA": {
+      "name": "Gabon",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-17",
+          "name": "Journée des droits de la femme"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Fête de fin du Ramadan"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Fête du mouton"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-08-16",
+          "name": "Jour de l'Indépendance"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "Early May bank holiday"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Spring bank holiday"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "GD": {
+      "name": "Grenada",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-02-07",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Whit Monday"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Corpus Christi"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "Emancipation Day"
+        },
+        {
+          "date": "2019-08-12",
+          "name": "Carnival Monday"
+        },
+        {
+          "date": "2019-08-13",
+          "name": "Carnival Tuesday"
+        },
+        {
+          "date": "2019-10-25",
+          "name": "Thanksgiving Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "GF": {
+      "name": "Guyane",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-08",
+          "name": "Fête de la Victoire 1945"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Abolition de l’esclavage"
+        },
+        {
+          "date": "2019-07-14",
+          "name": "Fête Nationale de la France"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Armistice 1918"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "GG": {
+      "name": "Guernsey",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "Early May bank holiday"
+        },
+        {
+          "date": "2019-05-09",
+          "name": "Liberation Day"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Spring bank holiday"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "GI": {
+      "name": "Gibraltar",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-03-11",
+          "name": "Commonwealth Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Workers Memorial Day"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "May Day"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Spring bank holiday"
+        },
+        {
+          "date": "2019-06-17",
+          "name": "Queen's Birthday"
+        },
+        {
+          "date": "2019-08-26",
+          "name": "Late Summer Bank Holiday"
+        },
+        {
+          "date": "2019-09-10",
+          "name": "Gibraltar National Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "GL": {
+      "name": "Kalaallit Nunaat",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "ukiortaaq"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Åbenbaring"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "sisamanngortoq illernartoq"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "tallimanngornersuaq"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "poorskip-ullua"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "poorskip-aappaa"
+        },
+        {
+          "date": "2019-05-17",
+          "name": "tussiarfissuaq"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "qilaliarfik"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "piinsip ullua"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "piinsip aappaa"
+        },
+        {
+          "date": "2019-06-21",
+          "name": "ullortuneq"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "juulliaraq"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "juullerujussuaq"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "juullip aappaa"
+        }
+      ]
+    },
+    "GP": {
+      "name": "Guadeloupe",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Vendredi saint"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-08",
+          "name": "Fête de la Victoire 1945"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Abolition de l’esclavage"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-07-14",
+          "name": "Fête Nationale de la France"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Armistice 1918"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "GQ": {
+      "name": "República de Guinea Ecuatorial",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-06-05",
+          "name": "Natalicio de Teodoro Obiang"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Corpus Christi"
+        },
+        {
+          "date": "2019-08-03",
+          "name": "Día del Golpe de Libertad"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Día de la Constitución"
+        },
+        {
+          "date": "2019-10-12",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "La inmaculada concepción"
+        },
+        {
+          "date": "2019-12-09",
+          "name": "La inmaculada concepción (día sustituto)"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "GR": {
+      "name": "Ελλάδα",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Πρωτοχρονιά"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Θεοφάνεια"
+        },
+        {
+          "date": "2019-03-11",
+          "name": "Καθαρά Δευτέρα"
+        },
+        {
+          "date": "2019-03-25",
+          "name": "Ευαγγελισμός, Εθνική Εορτή"
+        },
+        {
+          "date": "2019-04-26",
+          "name": "Μεγάλη Παρασκευή"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Πάσχα"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Δευτέρα του Πάσχα"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Εργατική Πρωτομαγιά"
+        },
+        {
+          "date": "2019-06-16",
+          "name": "Αγίου Πνεύματος"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Κοίμηση της Θεοτόκου"
+        },
+        {
+          "date": "2019-10-28",
+          "name": "Επέτειος του Όχι"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Χριστούγεννα"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Δεύτερη μέρα των Χριστουγέννων"
+        }
+      ]
+    },
+    "GT": {
+      "name": "Guatemala",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-04-20",
+          "name": "Sabado Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-06-30",
+          "name": "Día de las Fuerzas Armadas"
+        },
+        {
+          "date": "2019-09-15",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-10-20",
+          "name": "Día de la Revolución"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Todos los Santos"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Nochebuena"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Fin del Año"
+        }
+      ]
+    },
+    "GU": {
+      "name": "Guam",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-21",
+          "name": "Martin Luther King Day"
+        },
+        {
+          "date": "2019-02-18",
+          "name": "Washington’s Birthday"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Guam Discovery Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Memorial Day"
+        },
+        {
+          "date": "2019-07-04",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-07-21",
+          "name": "Liberation Day"
+        },
+        {
+          "date": "2019-09-02",
+          "name": "Labor Day"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "Columbus Day"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "All Souls' Day"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Veterans Day"
+        },
+        {
+          "date": "2019-11-28",
+          "name": "Thanksgiving Day"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Lady of Camarin Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "GY": {
+      "name": "Guyana",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-02-23",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-05-05",
+          "name": "Arrival Day"
+        },
+        {
+          "date": "2019-05-26",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "CARICOM Day"
+        },
+        {
+          "date": "2019-08-01",
+          "name": "Emancipation Day"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Eid Ul Adha"
+        },
+        {
+          "date": "2019-11-09",
+          "name": "Youman Nabi"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "HN": {
+      "name": "Honduras",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-04-14",
+          "name": "Día de las Américas"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-09-15",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-10-03",
+          "name": "Día del Soldado"
+        },
+        {
+          "date": "2019-10-12",
+          "name": "Día de la Raza"
+        },
+        {
+          "date": "2019-10-21",
+          "name": "Día de las Fuerzas Armadas"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "HR": {
+      "name": "Hrvatska",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nova godina"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Bogojavljenje, Sveta tri kralja"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Pokladni utorak"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Drugi dan Uskrsa"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Praznik rada"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Tijelovo"
+        },
+        {
+          "date": "2019-06-22",
+          "name": "Dan antifašističke borbe"
+        },
+        {
+          "date": "2019-06-25",
+          "name": "Dan državnosti"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "Dan pobjede i domovinske zahvalnosti"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Velika Gospa"
+        },
+        {
+          "date": "2019-10-08",
+          "name": "Dan neovisnosti"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Svi sveti"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Božić"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Svetog Stjepana"
+        }
+      ]
+    },
+    "HT": {
+      "name": "Haïti",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Jour de l'Indépendance"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Jour des Aieux"
+        },
+        {
+          "date": "2019-03-04",
+          "name": "Lundi Gras"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Mardi Gras"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Vendredi saint"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-18",
+          "name": "Jour du Drapeau et de l'Université"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "la Fête-Dieu"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-10-17",
+          "name": "Anniversaire de la mort de Dessalines"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Fête des morts"
+        },
+        {
+          "date": "2019-11-18",
+          "name": "Vertières"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "HU": {
+      "name": "Magyarország",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Újév"
+        },
+        {
+          "date": "2019-03-15",
+          "name": "Nemzeti ünnep"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Húsvétvasárnap"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Húsvéthétfő"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "A munka ünnepe"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pünkösdvasárnap"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Pünkösdhétfő"
+        },
+        {
+          "date": "2019-08-20",
+          "name": "Szent István ünnepe"
+        },
+        {
+          "date": "2019-10-23",
+          "name": "Nemzeti ünnep"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Mindenszentek"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Karácsony"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Karácsony másnapja"
+        }
+      ]
+    },
+    "IE": {
+      "name": "Ireland",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-03-17",
+          "name": "St. Patrick’s Day"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "May Day"
+        },
+        {
+          "date": "2019-06-03",
+          "name": "First Monday in June"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "First Monday in August"
+        },
+        {
+          "date": "2019-10-28",
+          "name": "October Bank Holiday"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "St. Stephen's Day"
+        }
+      ]
+    },
+    "IM": {
+      "name": "Isle of Man",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "Early May bank holiday"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Spring bank holiday"
+        },
+        {
+          "date": "2019-06-14",
+          "name": "Tourist Trophy, Senior Race Day"
+        },
+        {
+          "date": "2019-07-05",
+          "name": "Tynwald Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "IS": {
+      "name": "Ísland",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nýársdagur"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Skírdagur"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Sumardagurinn fyrsti"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Föstudagurinn langi"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Páskadagur"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Annar í páskum"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Hátíðisdagur Verkamanna"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Uppstigningardagur"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Hvítasunnudagur"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Annar í hvítasunnu"
+        },
+        {
+          "date": "2019-06-17",
+          "name": "Íslenski þjóðhátíðardagurinn"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "Frídagur verslunarmanna"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Aðfangadagur"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Jóladagur"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Annar í jólum"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Gamlársdagur"
+        }
+      ]
+    },
+    "IT": {
+      "name": "Italia",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Capodanno"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Befana"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Domenica di Pasqua"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lunedì dell’Angelo"
+        },
+        {
+          "date": "2019-04-25",
+          "name": "Anniversario della Liberazione"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Festa del Lavoro"
+        },
+        {
+          "date": "2019-06-02",
+          "name": "Festa della Repubblica"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Ferragosto"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Ognissanti"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Immacolata Concezione"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Natale"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Santo Stefano"
+        }
+      ]
+    },
+    "JE": {
+      "name": "Jersey",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "Early May bank holiday"
+        },
+        {
+          "date": "2019-05-09",
+          "name": "Liberation Day"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Spring bank holiday"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "JM": {
+      "name": "Jamaica",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-03-06",
+          "name": "Ash Wednesday"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-23",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-08-01",
+          "name": "Emancipation Day"
+        },
+        {
+          "date": "2019-08-06",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-10-21",
+          "name": "National Heroes Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "JP": {
+      "name": "日本",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "元日"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "銀行休業日"
+        },
+        {
+          "date": "2019-01-03",
+          "name": "銀行休業日"
+        },
+        {
+          "date": "2019-01-14",
+          "name": "成人の日"
+        },
+        {
+          "date": "2019-02-11",
+          "name": "建国記念の日"
+        },
+        {
+          "date": "2019-03-21",
+          "name": "春分の日"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "昭和の日"
+        },
+        {
+          "date": "2019-05-03",
+          "name": "憲法記念日"
+        },
+        {
+          "date": "2019-05-04",
+          "name": "みどりの日"
+        },
+        {
+          "date": "2019-05-05",
+          "name": "こどもの日"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "こどもの日 (代替日)"
+        },
+        {
+          "date": "2019-07-15",
+          "name": "海の日"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "山の日"
+        },
+        {
+          "date": "2019-08-12",
+          "name": "山の日 (代替日)"
+        },
+        {
+          "date": "2019-09-16",
+          "name": "敬老の日"
+        },
+        {
+          "date": "2019-09-23",
+          "name": "秋分の日"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "体育の日"
+        },
+        {
+          "date": "2019-11-03",
+          "name": "文化の日"
+        },
+        {
+          "date": "2019-11-04",
+          "name": "文化の日 (代替日)"
+        },
+        {
+          "date": "2019-11-23",
+          "name": "勤労感謝の日"
+        },
+        {
+          "date": "2019-12-23",
+          "name": "天皇誕生日"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "大晦日"
+        }
+      ]
+    },
+    "KE": {
+      "name": "Kenia",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Mwaka mpya"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Ijumaa Kuu"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pasaka"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Jumatatu ya Pasaka"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-06-01",
+          "name": "Siku ya Madaraka"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Idd-ul-Fitr"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Idd-ul-Azha"
+        },
+        {
+          "date": "2019-10-10",
+          "name": "Moi Day"
+        },
+        {
+          "date": "2019-10-20",
+          "name": "Siku ya Mashujaa"
+        },
+        {
+          "date": "2019-10-21",
+          "name": "Siku ya Mashujaa (substitute day)"
+        },
+        {
+          "date": "2019-12-12",
+          "name": "Siku ya Jamhuri"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Krismasi"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "KR": {
+      "name": "대한민국",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "신정"
+        },
+        {
+          "date": "2019-02-05",
+          "name": "설날"
+        },
+        {
+          "date": "2019-03-01",
+          "name": "3·1절"
+        },
+        {
+          "date": "2019-05-05",
+          "name": "어린이날"
+        },
+        {
+          "date": "2019-05-12",
+          "name": "석가탄신일"
+        },
+        {
+          "date": "2019-06-06",
+          "name": "현충일"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "광복절"
+        },
+        {
+          "date": "2019-09-12",
+          "name": "추석"
+        },
+        {
+          "date": "2019-10-03",
+          "name": "개천절"
+        },
+        {
+          "date": "2019-10-09",
+          "name": "한글날"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "기독탄신일"
+        }
+      ]
+    },
+    "LI": {
+      "name": "Lichtenstein",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Neujahr"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Berchtoldstag"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Heilige Drei Könige"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Faschingsdienstag"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Karfreitag"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Ostermontag"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Tag der Arbeit"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Auffahrt"
+        },
+        {
+          "date": "2019-05-31",
+          "name": "Feiertagsbrücke"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Pfingstmontag"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Fronleichnam"
+        },
+        {
+          "date": "2019-06-21",
+          "name": "Feiertagsbrücke"
+        },
+        {
+          "date": "2019-09-08",
+          "name": "Mariä Geburt"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Mariä Empfängnis"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Heiliger Abend"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Weihnachten"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Stephanstag"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Silvester"
+        }
+      ]
+    },
+    "LT": {
+      "name": "Lietuva",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Naujieji metai"
+        },
+        {
+          "date": "2019-02-16",
+          "name": "Lietuvos valstybės atkūrimo diena"
+        },
+        {
+          "date": "2019-03-11",
+          "name": "Lietuvos nepriklausomybės atkūrimo diena"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Velykos"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Tarptautinė darbo diena"
+        },
+        {
+          "date": "2019-06-24",
+          "name": "Joninės, Rasos"
+        },
+        {
+          "date": "2019-07-06",
+          "name": "Valstybės diena"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Žolinė"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Visų šventųjų diena"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Šv. Kūčios"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Šv. Kalėdos"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "2. Kalėdų diena"
+        }
+      ]
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "1er mai"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-06-23",
+          "name": "L’anniversaire du Grand-Duc"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Armistice 1918"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Lendemain de Noël"
+        }
+      ]
+    },
+    "LV": {
+      "name": "Latvija",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Jaunais Gads"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Lielā Piektdiena"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Lieldienas"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Otrās Lieldienas"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Darba svētki"
+        },
+        {
+          "date": "2019-05-04",
+          "name": "Latvijas Republikas Neatkarības atjaunošanas diena"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "Latvijas Republikas Neatkarības atjaunošanas diena (aizstājējs diena)"
+        },
+        {
+          "date": "2019-06-23",
+          "name": "Līgo Diena"
+        },
+        {
+          "date": "2019-06-24",
+          "name": "Jāņi"
+        },
+        {
+          "date": "2019-11-18",
+          "name": "Latvijas Republikas proklamēšanas diena"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Ziemassvētku vakars"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Ziemassvētki"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Otrie Ziemassvētki"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Vecgada vakars"
+        }
+      ]
+    },
+    "MC": {
+      "name": "Monaco",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-01-27",
+          "name": "Sainte Dévote"
+        },
+        {
+          "date": "2019-01-28",
+          "name": "Sainte Dévote (jour substitut)"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "1er mai"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "la Fête-Dieu"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-19",
+          "name": "La Fête du Prince"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Immaculée Conception"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "MD": {
+      "name": "Republica Moldova",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Anul nou"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Craciun pe Rit Vechi"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "Ziua Internationala a Femeii"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Paștele"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Două zi de Pasti"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Ziua muncii"
+        },
+        {
+          "date": "2019-05-06",
+          "name": "Paştele Blăjinilor"
+        },
+        {
+          "date": "2019-05-09",
+          "name": "Ziua Victoriei"
+        },
+        {
+          "date": "2019-08-27",
+          "name": "Ziua Independentei"
+        },
+        {
+          "date": "2019-08-31",
+          "name": "Limba noastră"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Craciun pe stil Nou"
+        }
+      ]
+    },
+    "ME": {
+      "name": "Crna Gora",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nova godina"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Nova godina"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Badnji dan"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Božić"
+        },
+        {
+          "date": "2019-01-08",
+          "name": "Svetog Stjepana"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Veliki petak"
+        },
+        {
+          "date": "2019-04-20",
+          "name": "Pesač"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Uskrs"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Uskrs"
+        },
+        {
+          "date": "2019-04-26",
+          "name": "Veliki petak"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Uskrs"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Praznik rada"
+        },
+        {
+          "date": "2019-05-02",
+          "name": "Praznik rada"
+        },
+        {
+          "date": "2019-05-21",
+          "name": "Dan neovisnosti"
+        },
+        {
+          "date": "2019-05-22",
+          "name": "Dan neovisnosti"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Ramazanski bajram"
+        },
+        {
+          "date": "2019-07-13",
+          "name": "Dan državnosti"
+        },
+        {
+          "date": "2019-07-14",
+          "name": "Dan državnosti"
+        },
+        {
+          "date": "2019-07-15",
+          "name": "Dan državnosti (zamjena dan)"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Kurban-bajram"
+        },
+        {
+          "date": "2019-10-09",
+          "name": "Jom Kipur"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Svi sveti"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Badnji dan"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Božić"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Božić"
+        }
+      ]
+    },
+    "MG": {
+      "name": "Repoblikan'i Madagasikara",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Taom-baovao"
+        },
+        {
+          "date": "2019-03-29",
+          "name": "Martioran'ny tolona tamin'ny 1947"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Alatsinain'ny Paska"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fetin'ny asa"
+        },
+        {
+          "date": "2019-05-25",
+          "name": "Andron'i Afrika"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Andro niakarana"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Alatsinain'ny Pentekosta"
+        },
+        {
+          "date": "2019-06-26",
+          "name": "Fetim-pirenena"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Asompsiona"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Fetin'ny olo-masina"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Krismasy"
+        }
+      ]
+    },
+    "MK": {
+      "name": "Република Македонија",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Нова Година"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Прв ден Божик"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Прв ден Велигден"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Втор ден Велигден"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Ден на трудот"
+        },
+        {
+          "date": "2019-05-24",
+          "name": "Св. Кирил и Методиј"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Рамазан Бајрам"
+        },
+        {
+          "date": "2019-08-02",
+          "name": "Ден на Републиката"
+        },
+        {
+          "date": "2019-09-08",
+          "name": "Ден на независноста"
+        },
+        {
+          "date": "2019-09-09",
+          "name": "Ден на независноста (заменет ден)"
+        },
+        {
+          "date": "2019-10-11",
+          "name": "Ден на востанието"
+        },
+        {
+          "date": "2019-10-23",
+          "name": "Ден на македонската револуционерна борба"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Св. Климент Охридски"
+        },
+        {
+          "date": "2019-12-09",
+          "name": "Св. Климент Охридски (заменет ден)"
+        }
+      ]
+    },
+    "MQ": {
+      "name": "Martinique",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Vendredi saint"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-08",
+          "name": "Fête de la Victoire 1945"
+        },
+        {
+          "date": "2019-05-22",
+          "name": "Abolition de l’esclavage"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-07-14",
+          "name": "Fête Nationale de la France"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Armistice 1918"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "MT": {
+      "name": "Malta",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "L-Ewwel tas-Sena"
+        },
+        {
+          "date": "2019-02-10",
+          "name": "Nawfraġju ta' San Pawl"
+        },
+        {
+          "date": "2019-03-19",
+          "name": "San Ġużepp"
+        },
+        {
+          "date": "2019-03-31",
+          "name": "Jum il-Ħelsien"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Il-Ġimgħa l-Kbira"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Jum il-Ħaddiem"
+        },
+        {
+          "date": "2019-06-07",
+          "name": "Sette Giugno"
+        },
+        {
+          "date": "2019-06-29",
+          "name": "L-Imnarja"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Santa Marija"
+        },
+        {
+          "date": "2019-09-08",
+          "name": "Jum il-Vitorja"
+        },
+        {
+          "date": "2019-09-21",
+          "name": "Jum l-Indipendenza"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Il-Kunċizzjoni"
+        },
+        {
+          "date": "2019-12-13",
+          "name": "Jum ir-Repubblika"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Il-Milied"
+        }
+      ]
+    },
+    "MW": {
+      "name": "Malawi",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-15",
+          "name": "John Chilembwe Day"
+        },
+        {
+          "date": "2019-03-03",
+          "name": "Martyrs' Day"
+        },
+        {
+          "date": "2019-03-04",
+          "name": "Martyrs' Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-05-14",
+          "name": "Kamuzu Day"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Eid al Fitri"
+        },
+        {
+          "date": "2019-07-06",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-07-08",
+          "name": "Independence Day (substitute day)"
+        },
+        {
+          "date": "2019-10-15",
+          "name": "Mother's Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "MX": {
+      "name": "México",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-02-04",
+          "name": "Día de la Constitución (día libre)"
+        },
+        {
+          "date": "2019-02-05",
+          "name": "Día de la Constitución"
+        },
+        {
+          "date": "2019-03-18",
+          "name": "Natalicio de Benito Juárez (día libre)"
+        },
+        {
+          "date": "2019-03-21",
+          "name": "Natalicio de Benito Juárez"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-09-16",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-11-18",
+          "name": "Día de la Revolución (día libre)"
+        },
+        {
+          "date": "2019-11-20",
+          "name": "Día de la Revolución"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "MZ": {
+      "name": "Moçambique",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Dia da Fraternidade universal"
+        },
+        {
+          "date": "2019-02-03",
+          "name": "Dia dos heróis moçambicanos"
+        },
+        {
+          "date": "2019-02-04",
+          "name": "Feriado Obrigatório"
+        },
+        {
+          "date": "2019-04-07",
+          "name": "Dia da Mulher Moçambicana"
+        },
+        {
+          "date": "2019-04-08",
+          "name": "Feriado Obrigatório"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Dia Internacional dos Trabalhadores"
+        },
+        {
+          "date": "2019-06-25",
+          "name": "Dia da Independência Nacional"
+        },
+        {
+          "date": "2019-09-07",
+          "name": "Dia da Vitória"
+        },
+        {
+          "date": "2019-09-25",
+          "name": "Dia das Forças Armadas de Libertação Nacional"
+        },
+        {
+          "date": "2019-10-04",
+          "name": "Dia da Paz e Reconciliação"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Dia da Família"
+        }
+      ]
+    },
+    "NA": {
+      "name": "Namibia",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-03-21",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Workers Day"
+        },
+        {
+          "date": "2019-05-04",
+          "name": "Cassinga Day"
+        },
+        {
+          "date": "2019-05-25",
+          "name": "Africa Day"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension Day"
+        },
+        {
+          "date": "2019-08-26",
+          "name": "Heroes' Day"
+        },
+        {
+          "date": "2019-12-10",
+          "name": "Human Rights Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Day of Goodwill"
+        }
+      ]
+    },
+    "NI": {
+      "name": "Nicaragua",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-06-01",
+          "name": "Día del niño"
+        },
+        {
+          "date": "2019-07-19",
+          "name": "Triunfo de la Revolución Popular"
+        },
+        {
+          "date": "2019-09-14",
+          "name": "Batalla de San Jacinto"
+        },
+        {
+          "date": "2019-09-15",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-10-12",
+          "name": "Día de la resistencia indígena"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "La inmaculada concepción"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "NL": {
+      "name": "Nederland",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nieuwjaar"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Paasmaandag"
+        },
+        {
+          "date": "2019-04-27",
+          "name": "Koningsdag"
+        },
+        {
+          "date": "2019-05-04",
+          "name": "Nationale Dodenherdenking"
+        },
+        {
+          "date": "2019-05-05",
+          "name": "Bevrijdingsdag"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "O.L.H. Hemelvaart"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Pinkstermaandag"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Kerstmis"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Tweede kerstdag"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Oudejaarsavond"
+        }
+      ]
+    },
+    "NO": {
+      "name": "Norge",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Første nyttårsdag"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Skjærtorsdag"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Langfredag"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Første påskedag"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Andre påskedag"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Første mai"
+        },
+        {
+          "date": "2019-05-17",
+          "name": "Grunnlovsdagen"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Kristi himmelfartsdag"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Første pinsedag"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Andre pinsedag"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Julaften"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Første Juledag"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Andre juledag"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Nyttårsaften"
+        }
+      ]
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Day after New Year's Day"
+        },
+        {
+          "date": "2019-02-06",
+          "name": "Waitangi Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-04-25",
+          "name": "ANZAC Day"
+        },
+        {
+          "date": "2019-06-03",
+          "name": "Queen's Birthday"
+        },
+        {
+          "date": "2019-10-28",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "PA": {
+      "name": "Panamá",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-01-09",
+          "name": "Día de los Mártires Caídos en la Gesta Patriótica"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "Presidential Inauguration"
+        },
+        {
+          "date": "2019-11-03",
+          "name": "Día de la Separación (de Colombia)"
+        },
+        {
+          "date": "2019-11-04",
+          "name": "Día de la Separación (de Colombia) (día sustituto)"
+        },
+        {
+          "date": "2019-11-10",
+          "name": "Primer Grito de Independencia"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Primer Grito de Independencia (día sustituto)"
+        },
+        {
+          "date": "2019-11-28",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Día de la Madre"
+        },
+        {
+          "date": "2019-12-09",
+          "name": "Día de la Madre (día sustituto)"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "PE": {
+      "name": "Perú",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pascua"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-06-29",
+          "name": "San Pedro y San Pablo"
+        },
+        {
+          "date": "2019-07-28",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-07-29",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-08-30",
+          "name": "Día de Santa Rosa de Lima"
+        },
+        {
+          "date": "2019-10-08",
+          "name": "Combate de Angamos"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Todos los Santos"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "La inmaculada concepción"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "PL": {
+      "name": "Polska",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nowy Rok"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Święto Trzech Króli"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Niedziela Wielkanocna"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Drugi dzień Wielkanocy"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Święto Państwowe; Święto Pracy"
+        },
+        {
+          "date": "2019-05-03",
+          "name": "Święto Narodowe Trzeciego Maja"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Zielone Świątki"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Dzień Bożego Ciała"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Wniebowzięcie Najświętszej Maryi Panny"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Wszystkich Świętych"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Narodowe Święto Niepodległości"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Pierwszy dzień Bożego Narodzenia"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Drugi dzień Bożego Narodzenia"
+        }
+      ]
+    },
+    "PT": {
+      "name": "Portugal",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Ano Novo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Sexta-Feira Santa"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Páscoa"
+        },
+        {
+          "date": "2019-04-25",
+          "name": "Dia da Liberdade"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Dia do trabalhador"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Dia de Portugal"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Corpo de Deus"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assunção"
+        },
+        {
+          "date": "2019-10-05",
+          "name": "Implantação da República"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Todos os santos"
+        },
+        {
+          "date": "2019-12-01",
+          "name": "Restauração da Independência"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Imaculada Conceição"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Natal"
+        }
+      ]
+    },
+    "PY": {
+      "name": "Paraguay",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-05-14",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-05-15",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-06-17",
+          "name": "Día de la Paz del Chaco"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Asunción"
+        },
+        {
+          "date": "2019-09-29",
+          "name": "Victoria de Boquerón"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Virgen de Caacupé"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Fin del Año"
+        }
+      ]
+    },
+    "RE": {
+      "name": "Réunion",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-08",
+          "name": "Fête de la Victoire 1945"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-07-14",
+          "name": "Fête Nationale de la France"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Armistice 1918"
+        },
+        {
+          "date": "2019-12-20",
+          "name": "Abolition de l’esclavage"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "RO": {
+      "name": "Romania",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Anul nou"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Paștele"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Două zi de Pasti"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Ziua muncii"
+        },
+        {
+          "date": "2019-06-16",
+          "name": "Rusaliile"
+        },
+        {
+          "date": "2019-06-17",
+          "name": "Două zi de Rusalii"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Adormirea Maicii Domnului"
+        },
+        {
+          "date": "2019-11-30",
+          "name": "Sfântul Andrei"
+        },
+        {
+          "date": "2019-12-01",
+          "name": "Ziua națională, Ziua Marii Uniri"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Crăciunul"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Două zi de Crăciun"
+        }
+      ]
+    },
+    "RS": {
+      "name": "Република Србија",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Нова година"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Нова година"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Божић"
+        },
+        {
+          "date": "2019-02-15",
+          "name": "Дан државности Србије"
+        },
+        {
+          "date": "2019-02-16",
+          "name": "Дан државности Србије"
+        },
+        {
+          "date": "2019-04-26",
+          "name": "Велики петак"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Васкрс"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Васкрсни понедељак"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Празник рада"
+        },
+        {
+          "date": "2019-05-02",
+          "name": "Празник рада"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Дан примирја"
+        }
+      ]
+    },
+    "RU": {
+      "name": "Россия",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Новый год"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Новогодние каникулы"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Рождество Христово"
+        },
+        {
+          "date": "2019-01-08",
+          "name": "Новогодние каникулы"
+        },
+        {
+          "date": "2019-02-23",
+          "name": "День защитника Отечества"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "Международный женский день"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "День весны и труда"
+        },
+        {
+          "date": "2019-05-09",
+          "name": "День Победы"
+        },
+        {
+          "date": "2019-06-12",
+          "name": "День России"
+        },
+        {
+          "date": "2019-08-22",
+          "name": "День Государственного флага"
+        },
+        {
+          "date": "2019-11-04",
+          "name": "День народного единства"
+        }
+      ]
+    },
+    "RW": {
+      "name": "Repubulika y'u Rwanda",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Jour férié légaux"
+        },
+        {
+          "date": "2019-02-01",
+          "name": "Heroes Day"
+        },
+        {
+          "date": "2019-04-07",
+          "name": "Jour de Mémorial du Génocide"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Vendredi saint"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Fête de fin du Ramadan"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "Jour de l'Indépendance"
+        },
+        {
+          "date": "2019-07-04",
+          "name": "Jour de la Libération"
+        },
+        {
+          "date": "2019-08-02",
+          "name": "Umuganura"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Fête du mouton"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Lendemain de Noël"
+        }
+      ]
+    },
+    "SE": {
+      "name": "Sverige",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nyårsdagen"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Trettondedag jul"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Långfredagen"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Annandag påsk"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Första Maj"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Kristi himmelfärds dag"
+        },
+        {
+          "date": "2019-06-06",
+          "name": "Sveriges nationaldag"
+        },
+        {
+          "date": "2019-06-22",
+          "name": "Midsommar"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Alla Helgons dag"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Juldagen"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Annandag jul"
+        }
+      ]
+    },
+    "SI": {
+      "name": "Republika Slovenija",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "novo leto"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "novo leto"
+        },
+        {
+          "date": "2019-02-08",
+          "name": "Prešernov dan"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "velika noč"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Velikonočni ponedeljek"
+        },
+        {
+          "date": "2019-04-27",
+          "name": "dan upora proti okupatorju"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "praznik dela"
+        },
+        {
+          "date": "2019-05-02",
+          "name": "praznik dela"
+        },
+        {
+          "date": "2019-06-08",
+          "name": "dan Primoža Trubarja"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "binkošti"
+        },
+        {
+          "date": "2019-06-25",
+          "name": "dan državnosti"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Marijino vnebovzetje"
+        },
+        {
+          "date": "2019-10-31",
+          "name": "dan reformacije"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "dan spomina na mrtve or dan mrtvih"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "božič"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "dan samostojnosti in enotnosti"
+        }
+      ]
+    },
+    "SJ": {
+      "name": "Svalbard & Jan Mayen",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Første nyttårsdag"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Skjærtorsdag"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Langfredag"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Første påskedag"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Andre påskedag"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Første mai"
+        },
+        {
+          "date": "2019-05-17",
+          "name": "Grunnlovsdagen"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Kristi himmelfartsdag"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Første pinsedag"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Andre pinsedag"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Julaften"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Første Juledag"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Andre juledag"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Nyttårsaften"
+        }
+      ]
+    },
+    "SK": {
+      "name": "Slovenská republika",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Deň vzniku Slovenskej republiky"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Zjavenie Pána"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Veľkonočný piatok"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Veľkonočný pondelok"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Sviatok práce"
+        },
+        {
+          "date": "2019-05-08",
+          "name": "Deň víťazstva nad fašizmom"
+        },
+        {
+          "date": "2019-07-05",
+          "name": "Sviatok svätého Cyrila a Metoda"
+        },
+        {
+          "date": "2019-08-29",
+          "name": "Výročie Slovenského národného povstania"
+        },
+        {
+          "date": "2019-09-01",
+          "name": "Deň Ústavy"
+        },
+        {
+          "date": "2019-09-15",
+          "name": "Sviatok Panny Márie Sedembolestnej"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Sviatok všetkých svätých"
+        },
+        {
+          "date": "2019-11-17",
+          "name": "Deň boja za slobodu a demokraciu"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Štedrý deň"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Prvý sviatok vianočný"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Druhý sviatok vianočný"
+        }
+      ]
+    },
+    "SM": {
+      "name": "San Marino",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Capodanno"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Epifania"
+        },
+        {
+          "date": "2019-02-05",
+          "name": "Festa di Sant’Agata"
+        },
+        {
+          "date": "2019-03-25",
+          "name": "Anniversario dell'Arengo"
+        },
+        {
+          "date": "2019-04-01",
+          "name": "Cerimonia di investitura dei Capitani Reggenti"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Domenica di Pasqua"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lunedì dell’Angelo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Festa del Lavoro"
+        },
+        {
+          "date": "2019-06-20",
+          "name": "Corpus Domini"
+        },
+        {
+          "date": "2019-07-28",
+          "name": "Anniversario della caduta del Fascismo e Festa della Libertà"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Ferragosto"
+        },
+        {
+          "date": "2019-09-03",
+          "name": "Festa di San Marino e di Fondazione della Repubblica"
+        },
+        {
+          "date": "2019-10-01",
+          "name": "Cerimonia di investitura dei Capitani Reggenti"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Tutti i Santi"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Commemorazione dei defunti"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Immacolata Concezione"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Natale"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Santo Stefano"
+        }
+      ]
+    },
+    "SO": {
+      "name": "Jamhuuriyadda Federaalka Soomaaliya",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "عيد رأس السنة"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "يوم العمال"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "عيد الفطر"
+        },
+        {
+          "date": "2019-06-26",
+          "name": "استقلال الصومال البريطاني"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "عيد الاستقلال"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "عيد الأضحى"
+        },
+        {
+          "date": "2019-09-09",
+          "name": "عاشوراء"
+        },
+        {
+          "date": "2019-11-09",
+          "name": "المولد النبويّ"
+        }
+      ]
+    },
+    "SS": {
+      "name": "South Sudan",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-09",
+          "name": "Peace Agreement Day"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "International Women's Day"
+        },
+        {
+          "date": "2019-05-16",
+          "name": "SPLA Day"
+        },
+        {
+          "date": "2019-06-05",
+          "name": "End of Ramadan (Eid al-Fitr)"
+        },
+        {
+          "date": "2019-07-09",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-07-30",
+          "name": "Martyrs Day"
+        },
+        {
+          "date": "2019-08-13",
+          "name": "Feast of the Sacrifice (Eid al-Adha)"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-28",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "New Year's Eve"
+        }
+      ]
+    },
+    "SV": {
+      "name": "El Salvador",
+      "bank_holidays": [
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-04-20",
+          "name": "Sabado Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-08-06",
+          "name": "Celebración del Divino Salvador del Mundo"
+        },
+        {
+          "date": "2019-09-15",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-11-02",
+          "name": "Día de los Difuntos"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "TG": {
+      "name": "République togolaise",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-01-13",
+          "name": "Jour de la libération"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-04-27",
+          "name": "Jour de l'Indépendance"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-06-05",
+          "name": "Fête de fin du Ramadan"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-06-21",
+          "name": "Journée des Martyrs"
+        },
+        {
+          "date": "2019-08-12",
+          "name": "Fête du mouton"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-10",
+          "name": "Mawlid"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "TR": {
+      "name": "Türkiye",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Yılbaşı"
+        },
+        {
+          "date": "2019-04-23",
+          "name": "Ulusal Egemenlik ve Çocuk Bayramı"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Emek ve Dayanışma Günü"
+        },
+        {
+          "date": "2019-05-19",
+          "name": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Bayramı"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Kurban Bayramı"
+        },
+        {
+          "date": "2019-08-30",
+          "name": "Zafer Bayramı"
+        },
+        {
+          "date": "2019-10-29",
+          "name": "Cumhuriyet Bayramı"
+        }
+      ]
+    },
+    "TZ": {
+      "name": "Tanzania",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Zanzibar Revolution Day"
+        },
+        {
+          "date": "2019-04-07",
+          "name": "Karume Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-04-26",
+          "name": "Union Day"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "End of Ramadan (Eid al-Fitr)"
+        },
+        {
+          "date": "2019-07-07",
+          "name": "Saba Saba Day"
+        },
+        {
+          "date": "2019-08-08",
+          "name": "Nane Nane Day"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Feast of the Sacrifice (Eid al-Adha)"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "Nyerere Day"
+        },
+        {
+          "date": "2019-11-09",
+          "name": "Maulid Day"
+        },
+        {
+          "date": "2019-12-09",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "UA": {
+      "name": "Україна",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Новий Рік"
+        },
+        {
+          "date": "2019-01-02",
+          "name": "Новий Рік"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Різдво"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "Міжнародний жіночий день"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Великдень"
+        },
+        {
+          "date": "2019-04-29",
+          "name": "Великдень"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "День міжнародної солідарності трудящих"
+        },
+        {
+          "date": "2019-05-02",
+          "name": "День міжнародної солідарності трудящих"
+        },
+        {
+          "date": "2019-05-09",
+          "name": "День перемоги над нацизмом у Другій світовій війні"
+        },
+        {
+          "date": "2019-06-16",
+          "name": "Трійця"
+        },
+        {
+          "date": "2019-06-17",
+          "name": "Трійця"
+        },
+        {
+          "date": "2019-06-28",
+          "name": "День Конституції"
+        },
+        {
+          "date": "2019-08-24",
+          "name": "День Незалежності"
+        },
+        {
+          "date": "2019-08-26",
+          "name": "День Незалежності (замінити день)"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "День захисника України"
+        }
+      ]
+    },
+    "UG": {
+      "name": "Uganda",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-26",
+          "name": "Liberation Day"
+        },
+        {
+          "date": "2019-02-16",
+          "name": "Archbishop Janan Luwum Day"
+        },
+        {
+          "date": "2019-03-08",
+          "name": "International Women's Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Easter Sunday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-06-03",
+          "name": "Martyr's Day"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "End of Ramadan (Eid al-Fitr)"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "National Heroes Day"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Feast of the Sacrifice (Eid al-Adha)"
+        },
+        {
+          "date": "2019-10-09",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "US": {
+      "name": "United States of America",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-01-21",
+          "name": "Martin Luther King Day"
+        },
+        {
+          "date": "2019-02-18",
+          "name": "Washington’s Birthday"
+        },
+        {
+          "date": "2019-05-27",
+          "name": "Memorial Day"
+        },
+        {
+          "date": "2019-07-04",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-09-02",
+          "name": "Labor Day"
+        },
+        {
+          "date": "2019-10-14",
+          "name": "Columbus Day"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Veterans Day"
+        },
+        {
+          "date": "2019-11-28",
+          "name": "Thanksgiving Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "UY": {
+      "name": "Uruguay",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-07-18",
+          "name": "Día de la Constitución"
+        },
+        {
+          "date": "2019-08-25",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        }
+      ]
+    },
+    "VA": {
+      "name": "Stato della Città del Vaticano",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Maria Santissima Madre di Dio"
+        },
+        {
+          "date": "2019-01-06",
+          "name": "Epifania del Signore"
+        },
+        {
+          "date": "2019-02-11",
+          "name": "Anniversario della istituzione dello Stato della Città del Vaticano"
+        },
+        {
+          "date": "2019-03-13",
+          "name": "Anniversario dell'Elezione del Santo Padre"
+        },
+        {
+          "date": "2019-03-19",
+          "name": "San Giuseppe"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lunedì dell’Angelo"
+        },
+        {
+          "date": "2019-04-23",
+          "name": "San Giorgio - Onomastico del Santo Padre"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "San Giuseppe lavoratore"
+        },
+        {
+          "date": "2019-06-29",
+          "name": "Santi Pietro e Paolo"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assunzione di Maria in Cielo"
+        },
+        {
+          "date": "2019-09-08",
+          "name": "Festa della natività della madonna"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Ognissanti"
+        },
+        {
+          "date": "2019-12-08",
+          "name": "Immacolata Concezione"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Natale"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Santo Stefano"
+        }
+      ]
+    },
+    "VE": {
+      "name": "Venezuela",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Año Nuevo"
+        },
+        {
+          "date": "2019-03-04",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-03-05",
+          "name": "Carnaval"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Jueves Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Viernes Santo"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Declaración de la Independencia"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pascua"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fiesta del trabajo"
+        },
+        {
+          "date": "2019-06-24",
+          "name": "Aniversario de la Batalla de Carabobo"
+        },
+        {
+          "date": "2019-07-05",
+          "name": "Día de la Independencia"
+        },
+        {
+          "date": "2019-07-24",
+          "name": "Natalicio de Simón Bolívar"
+        },
+        {
+          "date": "2019-10-12",
+          "name": "Día de la resistencia indígena"
+        },
+        {
+          "date": "2019-12-24",
+          "name": "Nochebuena"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Navidad"
+        },
+        {
+          "date": "2019-12-31",
+          "name": "Fin del Año"
+        }
+      ]
+    },
+    "VN": {
+      "name": "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Tết dương lịch"
+        },
+        {
+          "date": "2019-02-04",
+          "name": "Tết ngày lễ"
+        },
+        {
+          "date": "2019-02-05",
+          "name": "Tết"
+        },
+        {
+          "date": "2019-04-14",
+          "name": "Giỗ tổ Hùng Vương"
+        },
+        {
+          "date": "2019-04-30",
+          "name": "Ngày Giải phóng miền Nam"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Ngày Quốc tế Lao động"
+        },
+        {
+          "date": "2019-09-02",
+          "name": "Quốc khánh"
+        }
+      ]
+    },
+    "XK": {
+      "name": "Republika e Kosovës",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Viti i Ri"
+        },
+        {
+          "date": "2019-01-07",
+          "name": "Krishtlindjet Ortodokse"
+        },
+        {
+          "date": "2019-02-17",
+          "name": "Dita e Pavarësisë"
+        },
+        {
+          "date": "2019-04-09",
+          "name": "Dita e Kushtetutës"
+        },
+        {
+          "date": "2019-04-21",
+          "name": "Pashkët Katolike"
+        },
+        {
+          "date": "2019-04-28",
+          "name": "Pashkët Ortodokse"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Dita Ndërkombëtare e Punonjësve"
+        },
+        {
+          "date": "2019-05-09",
+          "name": "Dita e Evropës"
+        },
+        {
+          "date": "2019-06-04",
+          "name": "Fitër Bajrami"
+        },
+        {
+          "date": "2019-08-11",
+          "name": "Kurban Bajrami"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Krishtlindja"
+        }
+      ]
+    },
+    "YT": {
+      "name": "Mayotte",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "Nouvel An"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Lundi de Pâques"
+        },
+        {
+          "date": "2019-04-27",
+          "name": "Abolition de l’esclavage"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Fête du travail"
+        },
+        {
+          "date": "2019-05-08",
+          "name": "Fête de la Victoire 1945"
+        },
+        {
+          "date": "2019-05-30",
+          "name": "Ascension"
+        },
+        {
+          "date": "2019-06-09",
+          "name": "Pentecôte"
+        },
+        {
+          "date": "2019-06-10",
+          "name": "Lundi de Pentecôte"
+        },
+        {
+          "date": "2019-07-14",
+          "name": "Fête Nationale de la France"
+        },
+        {
+          "date": "2019-08-15",
+          "name": "Assomption"
+        },
+        {
+          "date": "2019-11-01",
+          "name": "Toussaint"
+        },
+        {
+          "date": "2019-11-11",
+          "name": "Armistice 1918"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Noël"
+        }
+      ]
+    },
+    "ZA": {
+      "name": "South Africa",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-03-21",
+          "name": "Human Rights Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Family Day"
+        },
+        {
+          "date": "2019-04-27",
+          "name": "Freedom Day"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Workers' Day"
+        },
+        {
+          "date": "2019-06-16",
+          "name": "Youth Day"
+        },
+        {
+          "date": "2019-06-17",
+          "name": "Public Holiday"
+        },
+        {
+          "date": "2019-08-09",
+          "name": "National Women's Day"
+        },
+        {
+          "date": "2019-09-24",
+          "name": "Heritage Day"
+        },
+        {
+          "date": "2019-12-16",
+          "name": "Day of Reconciliation"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Day of Goodwill"
+        }
+      ]
+    },
+    "ZM": {
+      "name": "Zambia",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-03-09",
+          "name": "Women’s Day"
+        },
+        {
+          "date": "2019-03-12",
+          "name": "Youth Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-05-25",
+          "name": "African Freedom Day"
+        },
+        {
+          "date": "2019-07-01",
+          "name": "Heroes' Day"
+        },
+        {
+          "date": "2019-07-02",
+          "name": "Unity Day"
+        },
+        {
+          "date": "2019-08-05",
+          "name": "Farmers' Day"
+        },
+        {
+          "date": "2019-10-24",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        }
+      ]
+    },
+    "ZW": {
+      "name": "Zimbabwe",
+      "bank_holidays": [
+        {
+          "date": "2019-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2019-04-18",
+          "name": "Independence Day"
+        },
+        {
+          "date": "2019-04-19",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2019-04-22",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2019-05-01",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2019-05-25",
+          "name": "Africa Day"
+        },
+        {
+          "date": "2019-08-12",
+          "name": "Heroes' Day"
+        },
+        {
+          "date": "2019-08-13",
+          "name": "Defence Forces Day"
+        },
+        {
+          "date": "2019-12-22",
+          "name": "Unity Day"
+        },
+        {
+          "date": "2019-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2019-12-26",
+          "name": "Boxing Day"
+        }
+      ]
+    },
+    "ZZ": {
+      "name": "Other",
+      "bank_holidays": [
+        {
+          "name" : "Early May bank holiday",
+          "date" : "2015-05-04"
+        }
+      ]
+     }
+  }
+}

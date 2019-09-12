@@ -1,0 +1,7 @@
+Leave request was decided
+=====
+<p>Hello <strong>{{#with requester}}{{this.full_name}}{{/with}}</strong>,</p>
+
+<p>{{#with approver }}{{this.full_name}}{{/with}} decided to <strong>{{action}}</strong> your {{#if was_pended_revoke}}cancellation of {{/if}}leave request <strong>{{>leave_request_detail leave=leave }}</strong>.</p>
+
+<p>Thanks</p>

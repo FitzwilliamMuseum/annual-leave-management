@@ -1,0 +1,50 @@
+
+{{> header }}
+<div class="container">
+
+  <div class="row">
+    <div class="col-12  mb-2 ">
+      <h1 id="doc-main-h1">Login</h1>
+
+    </div>
+  </div>
+
+  <div class="col-12 shadow-sm p-3 mx-auto mb-3 bg-white rounded">
+
+
+    {{> show_flash_messages }}
+
+    <form class="form-horizontal" action="/login" method="post">
+
+      <div class="row">&nbsp;</div>
+
+      <div class="form-group">
+        <label for="email_inp" class="col-md-2 control-label col-md-offset-2">Employee email:</label>
+        <div class="col-md-5">
+          <input class="form-control" id="email_inp" type="text" name="username" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="pass_inp" class="col-md-2 control-label col-md-offset-2">Password</label>
+        <div class="col-md-5">
+          <input class="form-control" id="pass_inp" type="password" name="password" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="col-md-offset-4 col-md-1">
+          <button type="submit" class="btn btn-success" id="submit_login">Login</button>
+        </div>
+        <div class="col-md-4">
+          <p><button class="btn btn-success"><a href="/forgot-password/">Forgot password?</a></button>{{#if allow_create_new_accounts }} <button class="btn btn-success"><a href="/register/">Register new company</a></button>{{/if}}</p>
+        </div>
+      </div>
+
+    </form>
+
+    <div class="row">&nbsp;</div>
+
+  </div>
+</div>
+{{> footer }}

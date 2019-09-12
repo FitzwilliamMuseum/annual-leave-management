@@ -1,0 +1,9 @@
+
+{{# each grouped_leaves}}
+  <h2>{{this.year}}</h2>
+  {{> user_requests leaves=this.leaves no_header=1 logged_user=../logged_user}}
+  <p><button type="button" class="btn btn-primary">
+  A total of <span class="badge badge-light">{{ this.total_deduction }}</span>
+</button> <em>days would be deducted from the allowance.</em> </p>
+  <div class="main-row_header">&nbsp;</div>
+{{/ each}}
