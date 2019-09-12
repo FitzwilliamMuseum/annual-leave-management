@@ -15,29 +15,33 @@
 
   <div class="form-group">
     <label class="control-label">Overview</label>
+
+    <div class="progress">
+      <span class="mb-3">{{ leave_statistics.used_so_far }} days used so far</span>
+      <div data-content="{{# with employee }}{{this.full_name }}{{/with}} in current year used {{ leave_statistics.used_so_far }} days from allowance"
+      data-placement="top"
+      data-toggle="popover"
+      data-trigger="focus hover" class="progress-bar bg-warning" role="progressbar" style="width: {{ leave_statistics.used_so_far_percent }}%" aria-valuenow="{{ leave_statistics.used_so_far_percent }}" aria-valuemin="0" aria-valuemax="100"></div>
+
+    </div>
+
+
     <div class="progress bigger">
-      <div
-        class="progress-bar progress-bar-success"
-        style="width: {{ leave_statistics.used_so_far_percent }}%"
-        data-content="{{# with employee }}{{this.full_name }}{{/with}} in current year used {{ leave_statistics.used_so_far }} days from allowance"
-        data-placement="top"
-        data-toggle="popover"
-        data-trigger="focus hover"
-      >
-        {{ leave_statistics.used_so_far }} days used so far
-      </div>
+
+      <span class="mt-3 mb-3">{{ leave_statistics.remaining  }} days remaining in current year</span>
       <div
         class="progress-bar progress-bar-warning"
         style="width: {{ leave_statistics.remaining_percent }}%"
+        style="height: 20px;"
         data-content="{{# with employee }}{{this.full_name }}{{/with}} in current year has {{ leave_statistics.remaining }} remaining days in allowance"
         data-placement="top"
         data-toggle="popover"
         data-trigger="focus hover"
       >
-        {{ leave_statistics.remaining  }} days remaining in current year
       </div>
     </div>
   </div>
+
 
   <div class="form-group">
     <label class="control-label">Days available for {{ employee.name }} to take this year</label>
