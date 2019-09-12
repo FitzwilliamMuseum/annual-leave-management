@@ -129,3 +129,14 @@ npm install
 npm run-script db-update
 npm start
 ```
+
+## Screenshots
+
+Below are a few screenshots of how this app will present.
+
+### Team view
+![](public/img/screenshots/team.png)
+### Approval of requests view
+![](public/img/screenshots/approvals.png)
+### Request leave modal
+![](public/img/screenshots/request.png)
