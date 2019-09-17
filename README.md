@@ -93,6 +93,12 @@ Install TimeOff.Management application within your infrastructure:
 ```bash
 git clone https://github.com/timeoff-management/application.git timeoff-management
 cd timeoff-management
+cp db.json.dist db.json
+cp app.json.dist app.json
+```
+Edit the config files for values associated with your mail provider and db config. 
+
+```bash
 npm install https://github.com/mapbox/node-sqlite3/tarball/master
 npm install
 npm start
