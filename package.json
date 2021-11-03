@@ -44,7 +44,7 @@
     "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master",
     "underscore": "^1.8.3",
     "uuid": "^3.3.2",
-    "validator": "^3.43.0",
+    "validator": "^13.7.0",
     "ws": ">=3.3.1"
   },
   "devDependencies": {
